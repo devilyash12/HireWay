@@ -65,20 +65,3 @@ HireWay is a responsive job portal website that connects job seekers with employ
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
-
-## Deployment
-
-Follow the deployment guides for [Next.js](https://nextjs.org/docs/deployment) and [Supabase](https://supabase.com/docs/guides/hosting/hosting) to deploy your application to your preferred hosting platform.
-
-## Contributing
-
-We welcome contributions to HireWay! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Thanks to all contributors who have helped shape HireWay.
-- Special thanks to the open-source communities behind React, Next.js, Vite, TailwindCSS, and all other technologies used in this project.
